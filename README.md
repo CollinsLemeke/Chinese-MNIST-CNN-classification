@@ -59,11 +59,6 @@ Dropout for regularization
 
 Fully connected Dense layers for classification
 
-### Results
-Training Accuracy: ~XX%
-
-Test Accuracy: ~XX%
-
 The model shows strong performance in recognizing Chinese handwritten digits.
 
 Example prediction:
