@@ -61,7 +61,7 @@ Fully connected Dense layers for classification
 
 The model shows strong performance in recognizing Chinese handwritten digits.
 
-Example prediction:
+### Example prediction:
 
 Input Image	Predicted Label
 7
